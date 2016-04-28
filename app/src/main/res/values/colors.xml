@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorBakcground">#000000</color>
+
+    <color name="colorOne">#CEF380</color>
+    <color name="colorBar">#70E095</color>
+    <color name="colorBee">#888CFE</color>
+    <color name="colorBlock">#CEF380</color>
+    <color name="colorPistol">#FE89B4</color>
+    <color name="colorArch">#FEDC88</color>
+    <color name="colorDefault">#4D4D4B</color>
+
+
+</resources>
