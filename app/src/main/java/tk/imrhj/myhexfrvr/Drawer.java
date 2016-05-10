@@ -289,7 +289,9 @@ public class Drawer implements Runnable, View.OnTouchListener {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             } finally {
-                mHolder.unlockCanvasAndPost(mCanvas);
+                if (mCanvas != null && mHolder != null) {
+                    mHolder.unlockCanvasAndPost(mCanvas);
+                }
             }
         }
     }
